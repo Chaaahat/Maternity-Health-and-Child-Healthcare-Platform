@@ -43,6 +43,12 @@ A compassionate web platform designed to support **single mothers** navigating p
 
 The platform will be available at **[http://localhost:3000](http://localhost:3000)**.
 
+### 🔑 Login Credentials
+
+- **Username:** abc  
+- **Email:** abc@gmail.com  
+- **Password:** 123  
+
 ## 🎯 Future Enhancements
 
 🔹 AI-based **pregnancy risk analysis**\
@@ -55,11 +61,7 @@ We welcome contributions! Feel free to **fork** the repository, create a new bra
 
 ## 📩 Contact
 
-For inquiries or collaboration, reach out via **[somyabaghel.niet@gmail.com](mailto\:somyabaghel.niet@gmail.com)**.
+For inquiries or collaboration, reach out via **[somyabaghel.niet@gmail.com](mailto:somyabaghel.niet@gmail.com)**.
 
 🌿 *Empowering single mothers with accessible and compassionate healthcare!* 💖
-
-
-
-
 
